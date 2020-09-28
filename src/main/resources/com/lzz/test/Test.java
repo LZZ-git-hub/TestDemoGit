@@ -8,6 +8,6 @@ public class Test {
 
 		System.out.println("12");
 		System.out.println("321");
-
+		System.out.println("321");
 	}
 }
